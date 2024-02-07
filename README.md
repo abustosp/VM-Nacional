@@ -9,7 +9,7 @@ Para poder ejecutar la maquina virtual se debe:
 
 1. Instalar VirtualBox
 
-2. Descargar la MV desde:  https://uadeeduar-my.sharepoint.com/:u:/g/personal/abustos_uade_edu_ar/EWCTAX4dwzFPnWxC3QO2DIoBuzNmekUM8-9a1gf_JXjP1g?e=BHimMs
+2. Descargar la MV desde:  [One Drive](https://1drv.ms/u/s!ApppbJMrJfgdgtROqMcdujuVfUIrFg?e=zO2KcS)
 
 3. Abrir la MV desde VirtualBox 
 
